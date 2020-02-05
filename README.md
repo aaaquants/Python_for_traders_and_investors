@@ -1,1 +1,1 @@
-# Python_for_traders_and_investors
+# Python for Traders and Investors
